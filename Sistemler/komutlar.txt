@@ -1,0 +1,30 @@
+**$forceban:** IDsini girdiğiniz kişiyi banlar.
+**$günsayım:** Discorda ve Sunucuya girdiğin sayısını atar.
+**$güvenliksorgu:** Etiketlediğiniz kişinin hesabının güvenlimi güvensizmi olduğunu sorgular.
+**$güvenlik:** Sunucuya giren kişiyi otomatikmen hesabını sorgular.
+**$profilim:** Profil bilginizi atar.
+**$otorol:** Otorol hakkında bilgi verir.
+**$resimli-hgbb:** Belirlediğiniz kanala resimli giriş-çıkış atar.
+**$rol-koruma:** Birisi sizden habersiz rol açarsa siler.
+**$yazılı-hgbb:** Belirlediğiniz kanala yazılı giriş-çıkış atar.
+**$sayaç:** Sayaç Hakkında bilgi verir.
+**$sil:** 2-100 arasında mesaj siler.
+**$top:** Sunucuda Davet sıralamasını atar.
+**$slowmode:** Yavaş-mod açar 1-12 saniye arası.
+**$anime:** Anime bilgi atar.
+**$espri:** Rastgele bayat espriler gönderir.(Total: **42** Espri var)
+**$espriöner:** Bot sahibine espri önerebilirsiniz.
+**$istatistik:** Botun genel istatistikleri.
+**$seviye-aç:** Seviyeyi açar.
+**$seviye-kapat:** Seviyeti kapatır.
+**$seviye-log:** Belirlediğiniz kanala seviye atlayanları atar.
+**$seviye-xp:** Mesaj başına verilecek xpleri ayarlar.
+**$seviye-ayarlar:** Seviyeyi ayarları hakkında bilgi verir.
+**$seviye-rol:** Seviye başına verilcek rol.
+**$reklamisimbanaç:** isminde reklam olanları sunucuya almaz.
+**$reklamisimbankapa:** sistemi kapatır.
+**$reklam-kick:** Reklam kick hakkında bilgi verir.
+
+
+**YAPIMCIM: ZepstaR 
+BİLGİ: Versiyon V11.6 ile karşınızda...**
